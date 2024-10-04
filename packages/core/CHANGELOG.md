@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.8.1
+
+### Patch Changes
+
+- e606c06: Updates the typings of `DecorationsWithTypes` to be more accurate to the prosemirror implementation even though it is not completely exposed as an API
+
 ## 2.8.0
 
 ### Minor Changes
