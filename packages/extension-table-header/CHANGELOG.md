@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.8.1
+
+### Patch Changes
+
+- 96939ef: Tables now properly respect colwidths with multiple values, fixing resizeable columns when the first row has a colspan
+
 ## 2.8.0
 
 ### Minor Changes
